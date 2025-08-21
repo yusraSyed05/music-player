@@ -2,7 +2,7 @@
 
 This project is a Music Player built using HTML, Tailwind CSS, and React. It uses Vite as a build tool.  
 
-[Visite here....](https://music-player-six-lake-26.vercel.app/)
+[Visite here....](https://music-player-zeta-jet.vercel.app/)
 
 https://github.com/yusra05/music-player/assets/112852251/d6ef4be3-4fba-4bc7-b733-84f84e7e3dd4
 
